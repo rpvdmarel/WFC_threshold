@@ -1,1 +1,7 @@
-To be edited
+This repository contains the Jupyter notebook used to perform the
+calculations described and used in Sections 3 and 4.3 of JWST
+Technical report "OTE Science Performance Memo 7: The Optimal
+Wavefront Control Threshold" (van der Marel, 2025, in preparation). To
+setup a conda environment for running this notebook, see e.g.,
+Appendix A of "OTE Science Performance Memo 5: The Optimal Wavefront
+Sensing Cadence" (van der Marel, 2025).
